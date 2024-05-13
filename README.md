@@ -56,3 +56,9 @@ public class Main {
         }
     }
 }
+
+```
+
+<p>Este código abre o arquivo especificado, lê cada linha do arquivo e imprime seu conteúdo no console. Certifique-se de substituir "caminho/do/arquivo.txt" pelo caminho real do seu arquivo de texto.</p>
+
+<p>Agora que você entende como ler arquivos de texto em Java usando FileReader e BufferedReader, experimente criar e ler seus próprios arquivos para praticar e aprimorar suas habilidades!</p>
